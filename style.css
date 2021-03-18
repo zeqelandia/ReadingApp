@@ -1,0 +1,42 @@
+body {
+  background-color: #202020;
+  margin: 0;
+}
+
+.header {
+  color: #c5c5c5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.main {
+  margin-top: 15em;
+}
+
+.main__words {
+  color: #c5c5c5;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15em;
+  text-align: center;
+}
+
+#txtWord {
+  cursor: pointer;
+}
+
+.main__text {
+  color: #c5c5c5;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.footer {
+  bottom: 0px;
+  color: #c5c5c5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2em;
+  position: fixed;
+}
+/*# sourceMappingURL=style.css.map */
